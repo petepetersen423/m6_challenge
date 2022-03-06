@@ -1,7 +1,7 @@
 # Visualizing Prices and Rents in San Francisco.
 
 
-We were asked to perform a reproducible analysis of the housing data in San Francisco.  The notbook contains our entire analysis and consists of several visualizatioin that were used to guide our analysis. Our analysis and conclusions can be found at the end of the notebook.  This document is meant to be reproducible, downloaded and used by investors. Enjoy!
+We were asked to perform a reproducible analysis of the housing data in San Francisco.  The notebook contains our entire analysis and consists of several visualizations that were used to guide our analysis. Our analysis and conclusions can be found at the end of the notebook.  This document is meant to be reproducible, downloaded and used by investors. Enjoy!
 
 ## The project consists of the following project files:
 
